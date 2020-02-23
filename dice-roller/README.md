@@ -3,6 +3,8 @@ Originally based on an idea tweeted out by Dean Oest, I was curious to see if I 
 
 [Example CloudFlare Worker Embed URL](https://autumn-snowflake-6518.listekconsulting.workers.dev/)
 
+First input box is "number of dice", second is "number of sides", and third is "modifier".
+
 ## Process
 - Create a CloudFlare Worker with the code in `cloudflare-worker.js`
 - Embed this URL into your Notion page
